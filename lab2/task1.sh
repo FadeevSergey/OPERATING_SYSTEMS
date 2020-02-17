@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo grep -sroh "ACPI.*" /var/log/ > "errors.log"
+
+cat "errors.log" | grep "[[:alnum:]]\.[[:alpha:]]"
+ 

@@ -1,0 +1,330 @@
+[     4.225] Warning: The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[     4.226] Warning: The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+[     4.226] Warning: The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[     4.227] Warning: The directory "/usr/share/fonts/X11/100dpi" does not exist.
+[     4.227] Warning: The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[     4.432] Warning: Falling back to old probe method for modesetting
+[     4.432] Warning: Falling back to old probe method for fbdev
+[     5.230] Warning: vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
+[     5.230] Warning: vmware(0): Skipped initialization of direct rendering due to lack of render acceleration.
+[     5.232] Warning: vmware(0): Disabling Xv because no adaptors could be initialized.
+[     4.227] Information: The server relies on udev to provide the list of input devices.
+[     4.227] Information: Loader magic: 0x55e4ef927020
+[     4.227] Information: Module ABI versions:
+[     4.231] Information: systemd-logind: took control of session /org/freedesktop/login1/session/_31
+[     4.239] Information: LoadModule: "glx"
+[     4.242] Information: Loading /usr/lib/xorg/modules/extensions/libglx.so
+[     4.261] Information: Module glx: vendor="X.Org Foundation"
+[     4.262] Information: LoadModule: "vmware"
+[     4.262] Information: Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+[     4.424] Information: Module vmware: vendor="X.Org Foundation"
+[     4.424] Information: LoadModule: "modesetting"
+[     4.424] Information: Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[     4.429] Information: Module modesetting: vendor="X.Org Foundation"
+[     4.429] Information: LoadModule: "fbdev"
+[     4.429] Information: Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[     4.430] Information: Module fbdev: vendor="X.Org Foundation"
+[     4.430] Information: LoadModule: "vesa"
+[     4.430] Information: Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[     4.431] Information: Module vesa: vendor="X.Org Foundation"
+[     4.432] Information: vmware: driver for VMware SVGA: vmware0405, vmware0710
+[     4.432] Information: modesetting: Driver for Modesetting Kernel Drivers: kms
+[     4.432] Information: FBDEV: driver for framebuffer: fbdev
+[     4.432] Information: VESA: driver for VESA chipsets: vesa
+[     4.432] Information: Loading sub module "fbdevhw"
+[     4.432] Information: LoadModule: "fbdevhw"
+[     4.432] Information: Loading /usr/lib/xorg/modules/libfbdevhw.so
+[     4.434] Information: Module fbdevhw: vendor="X.Org Foundation"
+[     4.434] Information: vmware(0): Creating default Display subsection in Screen section
+[     5.211] Information: vmware(0): Output Virtual1 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual2 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual3 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual4 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual5 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual6 has no monitor section
+[     5.211] Information: vmware(0): Output Virtual7 has no monitor section
+[     5.212] Information: vmware(0): Output Virtual8 has no monitor section
+[     5.212] Information: vmware(0): Printing probed modes for output Virtual1
+[     5.212] Information: vmware(0): Modeline "800x600"x60.0   42.75  800 850 900 950  600 650 700 750 -hsync +vsync (45.0 kHz eP)
+[     5.212] Information: vmware(0): Modeline "2560x1600"x60.0  348.50  2560 2752 3032 3504  1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+[     5.212] Information: vmware(0): Modeline "1920x1440"x60.0  234.00  1920 2048 2256 2600  1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+[     5.212] Information: vmware(0): Modeline "1856x1392"x60.0  218.25  1856 1952 2176 2528  1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+[     5.212] Information: vmware(0): Modeline "1792x1344"x60.0  204.75  1792 1920 2120 2448  1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+[     5.212] Information: vmware(0): Modeline "1920x1200"x59.9  193.25  1920 2056 2256 2592  1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+[     5.212] Information: vmware(0): Modeline "1600x1200"x60.0  162.00  1600 1664 1856 2160  1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+[     5.212] Information: vmware(0): Modeline "1680x1050"x60.0  146.25  1680 1784 1960 2240  1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+[     5.212] Information: vmware(0): Modeline "1400x1050"x60.0  121.75  1400 1488 1632 1864  1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+[     5.212] Information: vmware(0): Modeline "1280x1024"x60.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+[     5.212] Information: vmware(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz e)
+[     5.212] Information: vmware(0): Modeline "1280x960"x60.0  108.00  1280 1376 1488 1800  960 961 964 1000 +hsync +vsync (60.0 kHz e)
+[     5.212] Information: vmware(0): Modeline "1360x768"x60.0   85.50  1360 1424 1536 1792  768 771 777 795 +hsync +vsync (47.7 kHz e)
+[     5.212] Information: vmware(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 +hsync -vsync (49.7 kHz e)
+[     5.212] Information: vmware(0): Modeline "1152x864"x75.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+[     5.212] Information: vmware(0): Modeline "1280x768"x59.9   79.50  1280 1344 1472 1664  768 771 778 798 -hsync +vsync (47.8 kHz e)
+[     5.212] Information: vmware(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+[     5.212] Information: vmware(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+[     5.212] Information: vmware(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 489 492 525 -hsync -vsync (31.5 kHz e)
+[     5.212] Information: vmware(0): EDID for output Virtual2
+[     5.212] Information: vmware(0): EDID for output Virtual3
+[     5.212] Information: vmware(0): EDID for output Virtual4
+[     5.212] Information: vmware(0): EDID for output Virtual5
+[     5.212] Information: vmware(0): EDID for output Virtual6
+[     5.212] Information: vmware(0): EDID for output Virtual7
+[     5.212] Information: vmware(0): EDID for output Virtual8
+[     5.212] Information: vmware(0): Output Virtual1 connected
+[     5.212] Information: vmware(0): Output Virtual2 disconnected
+[     5.212] Information: vmware(0): Output Virtual3 disconnected
+[     5.212] Information: vmware(0): Output Virtual4 disconnected
+[     5.212] Information: vmware(0): Output Virtual5 disconnected
+[     5.212] Information: vmware(0): Output Virtual6 disconnected
+[     5.212] Information: vmware(0): Output Virtual7 disconnected
+[     5.212] Information: vmware(0): Output Virtual8 disconnected
+[     5.212] Information: vmware(0): Using exact sizes for initial modes
+[     5.212] Information: vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+[     5.212] Information: Loading sub module "fb"
+[     5.212] Information: LoadModule: "fb"
+[     5.212] Information: Loading /usr/lib/xorg/modules/libfb.so
+[     5.217] Information: Module fb: vendor="X.Org Foundation"
+[     5.218] Information: Loading sub module "dri2"
+[     5.218] Information: LoadModule: "dri2"
+[     5.218] Information: Module "dri2" already built-in
+[     5.218] Information: Loading sub module "dri3"
+[     5.218] Information: LoadModule: "dri3"
+[     5.218] Information: Module "dri3" already built-in
+[     5.218] Information: UnloadModule: "modesetting"
+[     5.218] Information: Unloading modesetting
+[     5.218] Information: UnloadModule: "fbdev"
+[     5.218] Information: Unloading fbdev
+[     5.218] Information: UnloadSubModule: "fbdevhw"
+[     5.218] Information: Unloading fbdevhw
+[     5.218] Information: UnloadModule: "vesa"
+[     5.218] Information: Unloading vesa
+[     5.220] Information: vmware(0): Initialized VMWARE_CTRL extension version 0.2
+[     5.232] Information: vmware(0): No 3D acceleration. Not setting up textured video.
+[     5.232] Information: Initializing extension Generic Event Extension
+[     5.232] Information: Initializing extension SHAPE
+[     5.232] Information: Initializing extension MIT-SHM
+[     5.232] Information: Initializing extension XInputExtension
+[     5.233] Information: Initializing extension XTEST
+[     5.233] Information: Initializing extension BIG-REQUESTS
+[     5.233] Information: Initializing extension SYNC
+[     5.233] Information: Initializing extension XKEYBOARD
+[     5.233] Information: Initializing extension XC-MISC
+[     5.233] Information: Initializing extension SECURITY
+[     5.234] Information: Initializing extension XFIXES
+[     5.234] Information: Initializing extension RENDER
+[     5.234] Information: Initializing extension RANDR
+[     5.234] Information: Initializing extension COMPOSITE
+[     5.234] Information: Initializing extension DAMAGE
+[     5.234] Information: Initializing extension MIT-SCREEN-SAVER
+[     5.234] Information: Initializing extension DOUBLE-BUFFER
+[     5.234] Information: Initializing extension RECORD
+[     5.234] Information: Initializing extension DPMS
+[     5.234] Information: Initializing extension Present
+[     5.234] Information: Initializing extension DRI3
+[     5.234] Information: Initializing extension X-Resource
+[     5.234] Information: Initializing extension XVideo
+[     5.235] Information: Initializing extension XVideo-MotionCompensation
+[     5.235] Information: Initializing extension SELinux
+[     5.235] Information: SELinux: Disabled on system
+[     5.235] Information: Initializing extension GLX
+[     5.235] Information: AIGLX: Screen 0 is not DRI2 capable
+[     5.289] Information: IGLX: Loaded and initialized swrast
+[     5.289] Information: GLX: Initialized DRISWRAST GL provider for screen 0
+[     5.289] Information: Initializing extension XFree86-VidModeExtension
+[     5.289] Information: Initializing extension XFree86-DGA
+[     5.290] Information: Initializing extension XFree86-DRI
+[     5.290] Information: Initializing extension DRI2
+[     5.293] Information: vmware(0): Setting screen physical size to 211 x 158
+[     5.364] Information: config/udev: Adding input device Power Button (/dev/input/event0)
+[     5.365] Information: LoadModule: "libinput"
+[     5.366] Information: Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[     5.372] Information: Module libinput: vendor="X.Org Foundation"
+[     5.373] Information: Using input driver 'libinput' for 'Power Button'
+[     5.375] Information: systemd-logind: got fd for /dev/input/event0 13:64 fd 23 paused 0
+[     5.376] Information: event0  - Power Button: is tagged by udev as: Keyboard
+[     5.376] Information: event0  - Power Button: device is a keyboard
+[     5.376] Information: event0  - Power Button: device removed
+[     5.376] Information: XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[     5.407] Information: event0  - Power Button: is tagged by udev as: Keyboard
+[     5.407] Information: event0  - Power Button: device is a keyboard
+[     5.408] Information: config/udev: Adding input device Sleep Button (/dev/input/event1)
+[     5.408] Information: Using input driver 'libinput' for 'Sleep Button'
+[     5.411] Information: systemd-logind: got fd for /dev/input/event1 13:65 fd 26 paused 0
+[     5.412] Information: event1  - Sleep Button: is tagged by udev as: Keyboard
+[     5.412] Information: event1  - Sleep Button: device is a keyboard
+[     5.412] Information: event1  - Sleep Button: device removed
+[     5.413] Information: XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+[     5.416] Information: event1  - Sleep Button: is tagged by udev as: Keyboard
+[     5.416] Information: event1  - Sleep Button: device is a keyboard
+[     5.416] Information: config/udev: Adding input device Video Bus (/dev/input/event3)
+[     5.417] Information: Using input driver 'libinput' for 'Video Bus'
+[     5.418] Information: systemd-logind: got fd for /dev/input/event3 13:67 fd 27 paused 0
+[     5.419] Information: event3  - Video Bus: is tagged by udev as: Keyboard
+[     5.419] Information: event3  - Video Bus: device is a keyboard
+[     5.419] Information: event3  - Video Bus: device removed
+[     5.420] Information: XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+[     5.421] Information: event3  - Video Bus: is tagged by udev as: Keyboard
+[     5.421] Information: event3  - Video Bus: device is a keyboard
+[     5.422] Information: config/udev: Adding drm device (/dev/dri/card0)
+[     5.422] Information: xfree86: Adding drm device (/dev/dri/card0)
+[     5.424] Information: systemd-logind: got fd for /dev/dri/card0 226:0 fd 28 paused 1
+[     5.424] Information: systemd-logind: releasing fd for 226:0
+[     5.428] Information: config/udev: Adding input device VirtualBox mouse integration (/dev/input/event5)
+[     5.428] Information: Using input driver 'libinput' for 'VirtualBox mouse integration'
+[     5.430] Information: systemd-logind: got fd for /dev/input/event5 13:69 fd 29 paused 0
+[     5.431] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[     5.431] Information: event5  - VirtualBox mouse integration: device is a pointer
+[     5.431] Information: event5  - VirtualBox mouse integration: device removed
+[     5.432] Information: XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+[     5.433] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[     5.433] Information: event5  - VirtualBox mouse integration: device is a pointer
+[     5.436] Information: config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+[     5.436] Information: Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[     5.439] Information: systemd-logind: got fd for /dev/input/event2 13:66 fd 30 paused 0
+[     5.440] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     5.440] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard
+[     5.440] Information: event2  - AT Translated Set 2 keyboard: device removed
+[     5.440] Information: XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+[     5.442] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     5.442] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard
+[     5.444] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+[     5.444] Information: Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+[     5.446] Information: systemd-logind: got fd for /dev/input/event4 13:68 fd 31 paused 0
+[     5.447] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[     5.448] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[     5.448] Information: event4  - ImExPS/2 Generic Explorer Mouse: device removed
+[     5.448] Information: XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 11)
+[     5.450] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[     5.450] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[     5.451] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+[     5.451] Information: No input driver specified, ignoring this device.
+[     5.451] Information: This device may have been added with another device file.
+[     5.475] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+[     5.475] Information: No input driver specified, ignoring this device.
+[     5.476] Information: This device may have been added with another device file.
+[     5.477] Information: config/udev: removing device ImExPS/2 Generic Explorer Mouse
+[     5.477] Information: event4  - ImExPS/2 Generic Explorer Mouse: device removed
+[     5.478] Information: UnloadModule: "libinput"
+[     5.479] Information: systemd-logind: releasing fd for 13:68
+[     5.482] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+[     5.483] Information: Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+[     5.485] Information: systemd-logind: got fd for /dev/input/event4 13:68 fd 8 paused 0
+[     5.488] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[     5.488] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[     5.488] Information: event4  - ImExPS/2 Generic Explorer Mouse: device removed
+[     5.489] Information: XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 11)
+[     5.491] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[     5.491] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[     5.492] Information: config/udev: removing device AT Translated Set 2 keyboard
+[     5.493] Information: event2  - AT Translated Set 2 keyboard: device removed
+[     5.493] Information: UnloadModule: "libinput"
+[     5.494] Information: systemd-logind: releasing fd for 13:66
+[     5.498] Information: config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+[     5.498] Information: Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[     5.501] Information: systemd-logind: got fd for /dev/input/event2 13:66 fd 25 paused 0
+[     5.503] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     5.503] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard
+[     5.504] Information: event2  - AT Translated Set 2 keyboard: device removed
+[     5.506] Information: XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+[     5.509] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     5.509] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard
+[     5.521] Information: config/udev: removing device VirtualBox mouse integration
+[     5.522] Information: event5  - VirtualBox mouse integration: device removed
+[     5.522] Information: UnloadModule: "libinput"
+[     5.522] Information: systemd-logind: releasing fd for 13:69
+[     5.528] Information: config/udev: Adding input device VirtualBox mouse integration (/dev/input/event5)
+[     5.530] Information: Using input driver 'libinput' for 'VirtualBox mouse integration'
+[     5.532] Information: systemd-logind: got fd for /dev/input/event5 13:69 fd 29 paused 0
+[     5.534] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[     5.534] Information: event5  - VirtualBox mouse integration: device is a pointer
+[     5.534] Information: event5  - VirtualBox mouse integration: device removed
+[     5.536] Information: XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+[     5.538] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[     5.539] Information: event5  - VirtualBox mouse integration: device is a pointer
+[     5.540] Information: config/udev: removing GPU device /sys/devices/pci0000:00/0000:00:02.0/drm/card0 /dev/dri/card0
+[     5.540] Information: config/udev: Adding drm device (/dev/dri/card0)
+[     5.540] Information: xfree86: Adding drm device (/dev/dri/card0)
+[     5.542] Information: systemd-logind: got fd for /dev/dri/card0 226:0 fd 30 paused 1
+[     5.542] Information: systemd-logind: releasing fd for 226:0
+[    21.222] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+[    21.222] Information: No input driver specified, ignoring this device.
+[    21.222] Information: This device may have been added with another device file.
+[    21.222] Information: config/udev: removing device VirtualBox mouse integration
+[    21.223] Information: event5  - VirtualBox mouse integration: device removed
+[    21.251] Information: UnloadModule: "libinput"
+[    21.252] Information: systemd-logind: releasing fd for 13:69
+[    21.268] Information: config/udev: Adding input device VirtualBox mouse integration (/dev/input/event5)
+[    21.272] Information: Using input driver 'libinput' for 'VirtualBox mouse integration'
+[    21.275] Information: systemd-logind: got fd for /dev/input/event5 13:69 fd 45 paused 0
+[    21.278] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[    21.279] Information: event5  - VirtualBox mouse integration: device is a pointer
+[    21.279] Information: event5  - VirtualBox mouse integration: device removed
+[    21.279] Information: XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+[    21.297] Information: event5  - VirtualBox mouse integration: is tagged by udev as: Mouse
+[    21.297] Information: event5  - VirtualBox mouse integration: device is a pointer
+[    21.298] Information: config/udev: removing device Power Button
+[    21.300] Information: event0  - Power Button: device removed
+[    21.308] Information: UnloadModule: "libinput"
+[    21.308] Information: systemd-logind: releasing fd for 13:64
+[    21.309] Information: config/udev: Adding input device Power Button (/dev/input/event0)
+[    21.309] Information: Using input driver 'libinput' for 'Power Button'
+[    21.313] Information: systemd-logind: got fd for /dev/input/event0 13:64 fd 29 paused 0
+[    21.315] Information: event0  - Power Button: is tagged by udev as: Keyboard
+[    21.315] Information: event0  - Power Button: device is a keyboard
+[    21.316] Information: event0  - Power Button: device removed
+[    21.316] Information: XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[    21.329] Information: event0  - Power Button: is tagged by udev as: Keyboard
+[    21.329] Information: event0  - Power Button: device is a keyboard
+[    21.332] Information: config/udev: removing device ImExPS/2 Generic Explorer Mouse
+[    21.333] Information: event4  - ImExPS/2 Generic Explorer Mouse: device removed
+[    21.343] Information: UnloadModule: "libinput"
+[    21.344] Information: systemd-logind: releasing fd for 13:68
+[    21.345] Information: config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+[    21.345] Information: Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+[    21.347] Information: systemd-logind: got fd for /dev/input/event4 13:68 fd 23 paused 0
+[    21.348] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[    21.348] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[    21.348] Information: event4  - ImExPS/2 Generic Explorer Mouse: device removed
+[    21.349] Information: XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 11)
+[    21.354] Information: event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+[    21.354] Information: event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+[    21.356] Information: config/udev: removing device Video Bus
+[    21.356] Information: event3  - Video Bus: device removed
+[    21.371] Information: UnloadModule: "libinput"
+[    21.371] Information: systemd-logind: releasing fd for 13:67
+[    21.378] Information: config/udev: Adding input device Video Bus (/dev/input/event3)
+[    21.379] Information: Using input driver 'libinput' for 'Video Bus'
+[    21.381] Information: systemd-logind: got fd for /dev/input/event3 13:67 fd 27 paused 0
+[    21.384] Information: event3  - Video Bus: is tagged by udev as: Keyboard
+[    21.386] Information: event3  - Video Bus: device is a keyboard
+[    21.386] Information: event3  - Video Bus: device removed
+[    21.386] Information: XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+[    21.388] Information: event3  - Video Bus: is tagged by udev as: Keyboard
+[    21.388] Information: event3  - Video Bus: device is a keyboard
+[    21.392] Information: config/udev: removing device Sleep Button
+[    21.393] Information: event1  - Sleep Button: device removed
+[    21.413] Information: UnloadModule: "libinput"
+[    21.413] Information: systemd-logind: releasing fd for 13:65
+[    21.414] Information: config/udev: Adding input device Sleep Button (/dev/input/event1)
+[    21.415] Information: Using input driver 'libinput' for 'Sleep Button'
+[    21.418] Information: systemd-logind: got fd for /dev/input/event1 13:65 fd 26 paused 0
+[    21.421] Information: event1  - Sleep Button: is tagged by udev as: Keyboard
+[    21.421] Information: event1  - Sleep Button: device is a keyboard
+[    21.425] Information: event1  - Sleep Button: device removed
+[    21.425] Information: XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+[    21.428] Information: event1  - Sleep Button: is tagged by udev as: Keyboard
+[    21.428] Information: event1  - Sleep Button: device is a keyboard
+[    21.438] Information: config/udev: removing device AT Translated Set 2 keyboard
+[    21.438] Information: event2  - AT Translated Set 2 keyboard: device removed
+[    21.461] Information: UnloadModule: "libinput"
+[    21.462] Information: systemd-logind: releasing fd for 13:66
+[    21.463] Information: config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+[    21.463] Information: Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[    21.464] Information: systemd-logind: got fd for /dev/input/event2 13:66 fd 25 paused 0
+[    21.471] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    21.471] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard
+[    21.472] Information: event2  - AT Translated Set 2 keyboard: device removed
+[    21.472] Information: XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+[    21.474] Information: event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    21.474] Information: event2  - AT Translated Set 2 keyboard: device is a keyboard

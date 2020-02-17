@@ -1,0 +1,173 @@
+ACPI data
+ACPI: Early table checksum verification disabled
+ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+ACPI: XSDT 0x000000007FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+ACPI: FACP 0x000000007FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+ACPI: DSDT 0x000000007FFF0470 0022EA (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: APIC 0x000000007FFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+ACPI: SSDT 0x000000007FFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+ACPI: Local APIC address 0xfee00000
+ACPI: PM-Timer IO Port: 0x4008
+ACPI: Local APIC address 0xfee00000
+ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+ACPI: IRQ0 used by override.
+ACPI: IRQ9 used by override.
+ACPI (MADT) for SMP configuration information
+ACPI: Core revision 20181213
+ACPI: bus type PCI registered
+ACPI Hot Plug PCI Controller Driver version: 0.5
+ACPI: Added _OSI(Module Device)
+ACPI: Added _OSI(Processor Device)
+ACPI: Added _OSI(3.0 _SCP Extensions)
+ACPI: Added _OSI(Processor Aggregator Device)
+ACPI: Added _OSI(Linux-Dell-Video)
+ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+ACPI: 2 ACPI AML tables successfully acquired and loaded
+ACPI: Interpreter enabled
+ACPI: (supports S0 S5)
+ACPI: Using IOAPIC for interrupt routing
+ACPI; if necessary, use "pci=nocrs" and report a bug
+ACPI: Enabled 2 GPEs in block 00 to 07
+ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+ACPI
+ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+ACPI: bus type USB registered
+ACPI for IRQ routing
+ACPI init
+ACPI device, IDs PNP0303 (active)
+ACPI device, IDs PNP0f03 (active)
+ACPI: found 2 devices
+ACPI: AC Adapter [AC] (on-line)
+ACPI: Power Button [PWRF]
+ACPI: Sleep Button [SLPF]
+ACPI: Battery Slot [BAT0] (battery present)
+ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+ACPID Listen Socket.
+ACPI Events Check.
+ACPI event daemon.
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI.* /var/log/
+ACPI data
+ACPI: Early table checksum verification disabled
+ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+ACPI: XSDT 0x000000007FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+ACPI: FACP 0x000000007FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+ACPI: DSDT 0x000000007FFF0470 0022EA (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: APIC 0x000000007FFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+ACPI: SSDT 0x000000007FFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+ACPI: Local APIC address 0xfee00000
+ACPI: PM-Timer IO Port: 0x4008
+ACPI: Local APIC address 0xfee00000
+ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+ACPI: IRQ0 used by override.
+ACPI: IRQ9 used by override.
+ACPI (MADT) for SMP configuration information
+ACPI: Core revision 20181213
+ACPI: bus type PCI registered
+ACPI Hot Plug PCI Controller Driver version: 0.5
+ACPI: Added _OSI(Module Device)
+ACPI: Added _OSI(Processor Device)
+ACPI: Added _OSI(3.0 _SCP Extensions)
+ACPI: Added _OSI(Processor Aggregator Device)
+ACPI: Added _OSI(Linux-Dell-Video)
+ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+ACPI: 2 ACPI AML tables successfully acquired and loaded
+ACPI: Interpreter enabled
+ACPI: (supports S0 S5)
+ACPI: Using IOAPIC for interrupt routing
+ACPI; if necessary, use "pci=nocrs" and report a bug
+ACPI: Enabled 2 GPEs in block 00 to 07
+ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+ACPI
+ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+ACPI: bus type USB registered
+ACPI for IRQ routing
+ACPI init
+ACPI device, IDs PNP0303 (active)
+ACPI device, IDs PNP0f03 (active)
+ACPI: found 2 devices
+ACPI: AC Adapter [AC] (off-line)
+ACPI: Power Button [PWRF]
+ACPI: Sleep Button [SLPF]
+ACPI: Battery Slot [BAT0] (battery present)
+ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+ACPI Events Check.
+ACPID Listen Socket.
+ACPI event daemon.
+Двоичный файл /var/log/journal/bce5016f8c124bacb9b47855e572cd3d/system.journal совпадает
+Двоичный файл /var/log/journal/bce5016f8c124bacb9b47855e572cd3d/system@2cbd6dfe87974ce88049f8250086ac6b-0000000000000001-000596dc49ebdd7d.journal совпадает
+ACPI data
+ACPI: Early table checksum verification disabled
+ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+ACPI: XSDT 0x000000007FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+ACPI: FACP 0x000000007FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+ACPI: DSDT 0x000000007FFF0470 0022EA (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: FACS 0x000000007FFF0200 000040
+ACPI: APIC 0x000000007FFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+ACPI: SSDT 0x000000007FFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+ACPI: Local APIC address 0xfee00000
+ACPI: PM-Timer IO Port: 0x4008
+ACPI: Local APIC address 0xfee00000
+ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+ACPI: IRQ0 used by override.
+ACPI: IRQ9 used by override.
+ACPI (MADT) for SMP configuration information
+ACPI: Core revision 20181213
+ACPI: bus type PCI registered
+ACPI Hot Plug PCI Controller Driver version: 0.5
+ACPI: Added _OSI(Module Device)
+ACPI: Added _OSI(Processor Device)
+ACPI: Added _OSI(3.0 _SCP Extensions)
+ACPI: Added _OSI(Processor Aggregator Device)
+ACPI: Added _OSI(Linux-Dell-Video)
+ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+ACPI: 2 ACPI AML tables successfully acquired and loaded
+ACPI: Interpreter enabled
+ACPI: (supports S0 S5)
+ACPI: Using IOAPIC for interrupt routing
+ACPI; if necessary, use "pci=nocrs" and report a bug
+ACPI: Enabled 2 GPEs in block 00 to 07
+ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+ACPI
+ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+ACPI: bus type USB registered
+ACPI for IRQ routing
+ACPI init
+ACPI device, IDs PNP0303 (active)
+ACPI device, IDs PNP0f03 (active)
+ACPI: found 2 devices
+ACPI: AC Adapter [AC] (on-line)
+ACPI: Power Button [PWRF]
+ACPI: Sleep Button [SLPF]
+ACPI: Battery Slot [BAT0] (battery present)
+ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)

@@ -1,0 +1,250 @@
+ProcessID=1 : Parent_ProcessID=0 : Avarage_Sleeping_Time=.0559070588
+ProcessID=2 : Parent_ProcessID=0 : Avarage_Sleeping_Time=.0126303376
+Average_Sleeping_Children_of_ParentID=1 is .0342686982
+ProcessID=1004 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.3306269518
+ProcessID=1026 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.3037808837
+ProcessID=1032 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0589672965
+ProcessID=1105 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.2423828245
+ProcessID=1135 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.2238806674
+ProcessID=1149 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0226496512
+ProcessID=1311 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0926471252
+ProcessID=1326 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1019813092
+ProcessID=1460 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.5257060540
+ProcessID=1628 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1849092924
+ProcessID=271 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1086065886
+ProcessID=286 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1522220079
+ProcessID=352 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1189963585
+ProcessID=361 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1514449140
+ProcessID=456 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.2511977437
+ProcessID=463 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.2015918027
+ProcessID=475 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0630376221
+ProcessID=491 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0914813322
+ProcessID=496 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0459306020
+ProcessID=504 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0233260610
+ProcessID=511 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0878441129
+ProcessID=531 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0578694416
+ProcessID=532 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0547416050
+ProcessID=536 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1639310967
+ProcessID=541 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.4124148483
+ProcessID=549 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1063837272
+ProcessID=550 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1188255611
+ProcessID=551 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1970056450
+ProcessID=579 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0926946308
+ProcessID=581 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0834490791
+ProcessID=595 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.7154284329
+ProcessID=616 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1587886701
+ProcessID=647 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1281403986
+ProcessID=662 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.5536580454
+ProcessID=664 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.5655954772
+ProcessID=826 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.3667149145
+ProcessID=979 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.1591108440
+ProcessID=988 : Parent_ProcessID=1 : Avarage_Sleeping_Time=.0762617734
+Average_Sleeping_Children_of_ParentID=2 is .1945848787
+ProcessID=10 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0091876438
+ProcessID=10206 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0311440539
+ProcessID=11 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0121335026
+ProcessID=12 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=128 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0012980000
+ProcessID=129 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0014580000
+ProcessID=130 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.1221430000
+ProcessID=131 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0009465000
+ProcessID=13 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0246032075
+ProcessID=132 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.1140807600
+ProcessID=133 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0028730000
+ProcessID=136 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0018365000
+ProcessID=14 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0102396000
+ProcessID=147 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0012890000
+ProcessID=15 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0062756826
+ProcessID=16 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=166 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0012820000
+ProcessID=167 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0582760907
+ProcessID=17 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=18 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0135363200
+ProcessID=19 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0655122000
+ProcessID=20 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=203 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0524783333
+ProcessID=205 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.4755700769
+ProcessID=207 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0032150000
+ProcessID=21 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=22134 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0036798000
+ProcessID=22 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=229 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0366060686
+ProcessID=230 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0016940000
+ProcessID=23 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=24 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=25 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0011660000
+ProcessID=26 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0011320000
+ProcessID=27 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0067570000
+ProcessID=28 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0016335000
+ProcessID=29 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0010335000
+ProcessID=30 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0010615000
+ProcessID=306 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0256287727
+ProcessID=309 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0141976507
+ProcessID=31 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0008100000
+ProcessID=312 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0672480344
+ProcessID=314 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0111966800
+ProcessID=317 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0254535714
+ProcessID=3 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=32 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0010150000
+ProcessID=322 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0591709123
+ProcessID=324 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0128894264
+ProcessID=328 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0180343174
+ProcessID=331 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0155868666
+ProcessID=33 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0010280000
+ProcessID=335 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0179218019
+ProcessID=336 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0144187457
+ProcessID=338 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0082210937
+ProcessID=339 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0428204805
+ProcessID=347 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0284953898
+ProcessID=348 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0842959466
+ProcessID=349 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0153755645
+ProcessID=37 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0027943333
+ProcessID=38 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0007220000
+ProcessID=39 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0008740000
+ProcessID=4 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=526 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0059665000
+ProcessID=5929 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0338419280
+ProcessID=6 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0032042857
+ProcessID=680 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0178276551
+ProcessID=686 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0057910000
+ProcessID=8 : Parent_ProcessID=2 : Avarage_Sleeping_Time=0
+ProcessID=9 : Parent_ProcessID=2 : Avarage_Sleeping_Time=.0210753820
+Average_Sleeping_Children_of_ParentID=491 is .0234789446
+ProcessID=535 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.2687502307
+ProcessID=537 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.5386486666
+ProcessID=538 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.3839230526
+ProcessID=540 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.3432702500
+ProcessID=542 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.3001663125
+ProcessID=548 : Parent_ProcessID=491 : Avarage_Sleeping_Time=.3384960833
+Average_Sleeping_Children_of_ParentID=532 is .3622090992
+ProcessID=620 : Parent_ProcessID=532 : Avarage_Sleeping_Time=.2424979259
+Average_Sleeping_Children_of_ParentID=550 is .2424979259
+ProcessID=552 : Parent_ProcessID=550 : Avarage_Sleeping_Time=.0398090000
+Average_Sleeping_Children_of_ParentID=616 is .0398090000
+ProcessID=1132 : Parent_ProcessID=616 : Avarage_Sleeping_Time=.1559276740
+ProcessID=805 : Parent_ProcessID=616 : Avarage_Sleeping_Time=.0757972580
+Average_Sleeping_Children_of_ParentID=805 is .1158624660
+ProcessID=841 : Parent_ProcessID=805 : Avarage_Sleeping_Time=.1342801944
+Average_Sleeping_Children_of_ParentID=826 is .1342801944
+ProcessID=1007 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.1775014637
+ProcessID=1017 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.1608206071
+ProcessID=827 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.1594640000
+ProcessID=892 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.0716141927
+ProcessID=942 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.0839106029
+ProcessID=945 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.1526069821
+ProcessID=950 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.3232912000
+ProcessID=958 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.0443869442
+ProcessID=986 : Parent_ProcessID=826 : Avarage_Sleeping_Time=.1193130046
+Average_Sleeping_Children_of_ParentID=841 is .1436565552
+ProcessID=843 : Parent_ProcessID=841 : Avarage_Sleeping_Time=.0720395404
+ProcessID=907 : Parent_ProcessID=841 : Avarage_Sleeping_Time=.1098522356
+Average_Sleeping_Children_of_ParentID=907 is .0909458880
+ProcessID=1033 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.3585066404
+ProcessID=1034 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1700243500
+ProcessID=1039 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.3995409177
+ProcessID=1041 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1029235252
+ProcessID=1043 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.3202803653
+ProcessID=1045 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1304811282
+ProcessID=1046 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.2485260184
+ProcessID=1049 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.2078471285
+ProcessID=1051 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1201529285
+ProcessID=1054 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.2522052708
+ProcessID=1057 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1741905869
+ProcessID=1060 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1102857142
+ProcessID=1061 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1146231896
+ProcessID=1064 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1700083666
+ProcessID=1068 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.1882381500
+ProcessID=1073 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.2562048166
+ProcessID=1075 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.3579231010
+ProcessID=973 : Parent_ProcessID=907 : Avarage_Sleeping_Time=.4900222676
+Average_Sleeping_Children_of_ParentID=942 is .2317769147
+ProcessID=953 : Parent_ProcessID=942 : Avarage_Sleeping_Time=.0527180000
+Average_Sleeping_Children_of_ParentID=973 is .0527180000
+ProcessID=999 : Parent_ProcessID=973 : Avarage_Sleeping_Time=.1109119118
+Average_Sleeping_Children_of_ParentID=999 is .1109119118
+ProcessID=1002 : Parent_ProcessID=999 : Avarage_Sleeping_Time=.2564854444
+ProcessID=1125 : Parent_ProcessID=999 : Avarage_Sleeping_Time=.1679315409
+Average_Sleeping_Children_of_ParentID=1132 is .2122084926
+ProcessID=1153 : Parent_ProcessID=1132 : Avarage_Sleeping_Time=.2896416222
+Average_Sleeping_Children_of_ParentID=1135 is .2896416222
+ProcessID=1136 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1615840000
+ProcessID=1160 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0600467859
+ProcessID=1262 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1034622394
+ProcessID=1267 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.4970867500
+ProcessID=1276 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1687737213
+ProcessID=1284 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0192262238
+ProcessID=1329 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0521868235
+ProcessID=1334 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1724182173
+ProcessID=1343 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.3287984719
+ProcessID=1347 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.2880275074
+ProcessID=1356 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.2441143474
+ProcessID=1365 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1760679523
+ProcessID=1379 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.2430869191
+ProcessID=1383 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0793393714
+ProcessID=1387 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0748429263
+ProcessID=1391 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0837888947
+ProcessID=1396 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0660226454
+ProcessID=1528 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.9143513311
+ProcessID=1544 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1560492140
+ProcessID=1558 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.4171308783
+ProcessID=1693 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0869658189
+ProcessID=1719 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1549875811
+ProcessID=1821 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1490404807
+ProcessID=8065 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.0709246816
+ProcessID=8071 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1956724658
+ProcessID=8793 : Parent_ProcessID=1135 : Avarage_Sleeping_Time=.1814413787
+Average_Sleeping_Children_of_ParentID=1153 is .1979014472
+ProcessID=1155 : Parent_ProcessID=1153 : Avarage_Sleeping_Time=.0649006869
+ProcessID=1164 : Parent_ProcessID=1153 : Avarage_Sleeping_Time=.1249017600
+Average_Sleeping_Children_of_ParentID=1164 is .0949012234
+ProcessID=1259 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0423598654
+ProcessID=1300 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.4076599249
+ProcessID=1400 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0808596094
+ProcessID=1404 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1111436883
+ProcessID=1405 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1058651071
+ProcessID=1407 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0821142298
+ProcessID=1410 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0571121125
+ProcessID=1411 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0575225766
+ProcessID=1414 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1077258166
+ProcessID=1415 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0840812122
+ProcessID=1419 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0891240000
+ProcessID=1423 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1064345223
+ProcessID=1424 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1140649246
+ProcessID=1433 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0773483043
+ProcessID=1436 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1562244662
+ProcessID=1440 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0868366739
+ProcessID=1443 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.0964732715
+ProcessID=1445 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1878908373
+ProcessID=1446 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1013671094
+ProcessID=1497 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.2291516068
+ProcessID=1500 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.2083768571
+ProcessID=1599 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.1175311126
+ProcessID=1609 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.2243501214
+ProcessID=1743 : Parent_ProcessID=1164 : Avarage_Sleeping_Time=.3873401071
+Average_Sleeping_Children_of_ParentID=1262 is .1382899190
+ProcessID=1519 : Parent_ProcessID=1262 : Avarage_Sleeping_Time=.0376439813
+ProcessID=1765 : Parent_ProcessID=1262 : Avarage_Sleeping_Time=.1239482323
+ProcessID=1805 : Parent_ProcessID=1262 : Avarage_Sleeping_Time=.1019467678
+Average_Sleeping_Children_of_ParentID=1276 is .0878463271
+ProcessID=1281 : Parent_ProcessID=1276 : Avarage_Sleeping_Time=.0378508619
+Average_Sleeping_Children_of_ParentID=1300 is .0378508619
+ProcessID=1320 : Parent_ProcessID=1300 : Avarage_Sleeping_Time=.0467343970
+Average_Sleeping_Children_of_ParentID=1320 is .0467343970
+ProcessID=1324 : Parent_ProcessID=1320 : Avarage_Sleeping_Time=.1954069545
+ProcessID=1562 : Parent_ProcessID=1320 : Avarage_Sleeping_Time=.0404940387
+Average_Sleeping_Children_of_ParentID=1528 is .1179504966
+ProcessID=1542 : Parent_ProcessID=1528 : Avarage_Sleeping_Time=1.0366200962
+Average_Sleeping_Children_of_ParentID=1558 is 1.0366200962
+ProcessID=1568 : Parent_ProcessID=1558 : Avarage_Sleeping_Time=.2542904358
+Average_Sleeping_Children_of_ParentID=1693 is .2542904358
+ProcessID=1702 : Parent_ProcessID=1693 : Avarage_Sleeping_Time=.1764950075
+Average_Sleeping_Children_of_ParentID=1702 is .1764950075
+ProcessID=21213 : Parent_ProcessID=1702 : Avarage_Sleeping_Time=.6374526973
+ProcessID=21234 : Parent_ProcessID=1702 : Avarage_Sleeping_Time=3.6312057250
+ProcessID=23022 : Parent_ProcessID=1702 : Avarage_Sleeping_Time=.0509076677
+Average_Sleeping_Children_of_ParentID=21213 is 1.4398553633
+ProcessID=21226 : Parent_ProcessID=21213 : Avarage_Sleeping_Time=.0331672666
+ProcessID=21227 : Parent_ProcessID=21213 : Avarage_Sleeping_Time=.0323109000
+Average_Sleeping_Children_of_ParentID=21234 is .0327390833
+ProcessID=21244 : Parent_ProcessID=21234 : Avarage_Sleeping_Time=.0470562413
+Average_Sleeping_Children_of_ParentID=21234 is .0470562413
